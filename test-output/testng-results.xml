@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T17:28:12 IST" name="Suite" finished-at="2023-09-11T17:29:27 IST" duration-ms="74214">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T17:28:12 IST" name="Test" finished-at="2023-09-11T17:29:27 IST" duration-ms="74214">
+      <class name="com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase006">
+        <test-method signature="productlist()[pri:0, instance:com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase006@36fc695d]" started-at="2023-09-11T17:28:55 IST" name="productlist" finished-at="2023-09-11T17:29:07 IST" duration-ms="11588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productlist -->
+      </class> <!-- com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase006 -->
+      <class name="com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase007">
+        <test-method signature="addtocart()[pri:0, instance:com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase007@28701274]" started-at="2023-09-11T17:29:07 IST" name="addtocart" finished-at="2023-09-11T17:29:27 IST" duration-ms="19720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+      </class> <!-- com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase007 -->
+      <class name="com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase001">
+        <test-method signature="singup()[pri:0, instance:com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase001@6771beb3]" started-at="2023-09-11T17:28:12 IST" name="singup" finished-at="2023-09-11T17:28:26 IST" duration-ms="13371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singup -->
+      </class> <!-- com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase001 -->
+      <class name="com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase002">
+        <test-method signature="loginPage()[pri:0, instance:com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase002@51399530]" started-at="2023-09-11T17:28:26 IST" name="loginPage" finished-at="2023-09-11T17:28:33 IST" duration-ms="7577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+      </class> <!-- com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase002 -->
+      <class name="com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase003">
+        <test-method signature="homePage()[pri:0, instance:com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase003@6b2ea799]" started-at="2023-09-11T17:28:33 IST" name="homePage" finished-at="2023-09-11T17:28:41 IST" duration-ms="7912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+      </class> <!-- com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase003 -->
+      <class name="com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase004">
+        <test-method signature="contact()[pri:0, instance:com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase004@411f53a0]" started-at="2023-09-11T17:28:41 IST" name="contact" finished-at="2023-09-11T17:28:48 IST" duration-ms="6274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+      </class> <!-- com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase004 -->
+      <class name="com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase005">
+        <test-method signature="descr()[pri:0, instance:com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase005@2b71e916]" started-at="2023-09-11T17:28:48 IST" name="descr" finished-at="2023-09-11T17:28:55 IST" duration-ms="7702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- descr -->
+      </class> <!-- com.Simplilearn.TestingMedicareWebApplication.Testcases$testcase005 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
